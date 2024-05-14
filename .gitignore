@@ -1,0 +1,14 @@
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+
+# Ignore a specific directory containing images
+# Uncomment the following line and specify the directory if needed
+# path/to/images/directory/*
